@@ -43,7 +43,7 @@
      ```
    * Запуск из производственной среды:
      ```
-     python manage.py runserver --settings=shop.settings.local
+     python manage.py runserver --settings=shop.settings.prod
      ```
 
 
